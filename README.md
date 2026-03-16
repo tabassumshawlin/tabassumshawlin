@@ -1,5 +1,5 @@
 # 💫 About Me:
-## ⚡ Quick facts<br><br>- 📝 Working on my thesis: Teaching AI to detect epilepsy from brain signals (CNN + Transformer models)<br>- 💻 Love building with MERN stack - currently building ProHire, a job board platform<br>- 🤝 Hit me up if you want to collaborate on AI/ML or web dev projects<br>- 🏆 Fun achievement: VP of Circuit Clash 1.0 - we got 800+ students from 40+ universities competing in robotics<br>- 🌱 Figuring out Explainable AI (because black-box models scare me)<br>- ☕ Ask me about competitive programming or how to organize a big tech event on a budget
+## ⚡ Quick facts<br><br>- 📝 Working on my thesis in deep learning for healthcare<br>- 💻 Love building with modern web technologies<br>- 🤝 Always open to collaborating on interesting projects<br>- 🏆 Led and organized large-scale tech events<br>- 🌱 Exploring AI/ML and why models make the decisions they do<br>- ☕ Ask me about web dev, tech events, or just to chat over coffee
 
 
 ## 🌐 Socials:
